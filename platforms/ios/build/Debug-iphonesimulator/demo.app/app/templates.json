@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Dashboard",
+    "source": "{\"id\":\"jvGTW8gn\",\"block\":\"{\\\"symbols\\\":[],\\\"statements\\\":[[7,\\\"page\\\",true],[9],[0,\\\"\\\\n  \\\"],[7,\\\"actionbar\\\",true],[9],[0,\\\"\\\\n    \\\"],[7,\\\"label\\\",true],[11,\\\"text\\\",\\\"Dashboard\\\",null],[11,\\\"class\\\",\\\"action-label\\\",null],[9],[10],[0,\\\"\\\\n  \\\"],[10],[0,\\\"\\\\n\\\"],[10],[0,\\\"\\\\n\\\"]],\\\"hasEval\\\":false}\",\"meta\":{}}",
+    "handle": 0,
+    "capabilities": {
+      "attributeHook": true,
+      "createArgs": true,
+      "createCaller": false,
+      "createInstance": true,
+      "dynamicLayout": false,
+      "dynamicScope": false,
+      "dynamicTag": true,
+      "elementHook": true,
+      "prepareArgs": false,
+      "updateHook": true,
+      "wrapped": false
+    }
+  },
+  {
+    "name": "Demo",
+    "source": "{\"id\":\"K14M8AFm\",\"block\":\"{\\\"symbols\\\":[],\\\"statements\\\":[[5,\\\"Home\\\",[],[[],[]],null]],\\\"hasEval\\\":false}\",\"meta\":{}}",
+    "handle": 1,
+    "capabilities": {
+      "attributeHook": true,
+      "createArgs": true,
+      "createCaller": false,
+      "createInstance": true,
+      "dynamicLayout": false,
+      "dynamicScope": false,
+      "dynamicTag": true,
+      "elementHook": true,
+      "prepareArgs": false,
+      "updateHook": true,
+      "wrapped": false
+    }
+  },
+  {
+    "name": "Home",
+    "source": "{\"id\":\"j0sWMuXO\",\"block\":\"{\\\"symbols\\\":[],\\\"statements\\\":[[7,\\\"page\\\",true],[9],[0,\\\"\\\\n  \\\"],[7,\\\"actionbar\\\",true],[9],[0,\\\"\\\\n    \\\"],[7,\\\"label\\\",true],[11,\\\"text\\\",\\\"Home\\\",null],[11,\\\"class\\\",\\\"action-label\\\",null],[9],[10],[0,\\\"\\\\n  \\\"],[10],[0,\\\"\\\\n  \\\"],[5,\\\"LinkTo\\\",[],[[\\\"@target\\\",\\\"@text\\\"],[\\\"Dashboard\\\",\\\"Dashboard\\\"]],null],[0,\\\"\\\\n\\\"],[10]],\\\"hasEval\\\":false}\",\"meta\":{}}",
+    "handle": 2,
+    "capabilities": {
+      "attributeHook": true,
+      "createArgs": true,
+      "createCaller": false,
+      "createInstance": true,
+      "dynamicLayout": false,
+      "dynamicScope": false,
+      "dynamicTag": true,
+      "elementHook": true,
+      "prepareArgs": false,
+      "updateHook": true,
+      "wrapped": false
+    }
+  }
+]

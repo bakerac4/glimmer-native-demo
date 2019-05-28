@@ -1,0 +1,15 @@
+{
+	"nativePlatformStatus": "3",
+	"appFilesHashes": {
+		"/Users/adambaker/Development/Glimmer Native/demo/app/app.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"/Users/adambaker/Development/Glimmer Native/demo/app/app.d.ts": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"/Users/adambaker/Development/Glimmer Native/demo/app/app.ts": "baf51761f759ac8c56dfc0b9ed21adad8fbbce8a",
+		"/Users/adambaker/Development/Glimmer Native/demo/app/package.json": "de925cecceed63b4bc9cce0b453ebdc7007bb07c"
+	},
+	"release": false,
+	"bundle": true,
+	"changesRequireBuild": true,
+	"time": "Tue May 28 2019 14:17:39 GMT-0400 (Eastern Daylight Time)",
+	"changesRequireBuildTime": "Tue May 28 2019 14:17:39 GMT-0400 (Eastern Daylight Time)",
+	"projectFileHash": "4d40301dfa687a62a971887076f118204ad15793daf1a32178dc8dccb40bfb52"
+}
